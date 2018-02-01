@@ -1,0 +1,15 @@
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\AAA.Shared.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\AAA.Shared.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Shared\obj\Debug\AAA.Shared.pdb

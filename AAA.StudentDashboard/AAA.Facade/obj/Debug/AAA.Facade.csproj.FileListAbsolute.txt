@@ -1,0 +1,102 @@
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.csprojResolveAssemblyReference.cache
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\csc.exe
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\vbc.exe
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll.config
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\csc.exe
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\vbc.exe
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll.config
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\csc.exe
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\vbc.exe
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll.config
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Facade.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Core.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Net.Http.Formatting.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\bin\System.Web.Http.WebHost.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.Facade\obj\Debug\AAA.Facade.pdb

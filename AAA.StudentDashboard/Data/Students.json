@@ -1,0 +1,1332 @@
+[
+  {
+    "Name": "Walter",
+    "Surname": "Hernandez",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 84.0,
+      "Afrikaans": 59.0,
+      "Mathematics": 44.0,
+      "Science": 34.0,
+      "ComputerScience": 10.0,
+      "Economics": 93.0
+    }
+  },
+  {
+    "Name": "Randy",
+    "Surname": "Strickland",
+    "IsClassLeader": 0,
+    "Grade": 9,
+    "Scores": {
+      "English": 78.0,
+      "Afrikaans": 63.0,
+      "Mathematics": 88.0,
+      "Science": 57.0,
+      "ComputerScience": 98.0,
+      "Economics": 91.0
+    }
+  },
+  {
+    "Name": "Cecil",
+    "Surname": "Mitchell",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 60.0,
+      "Afrikaans": 94.0,
+      "Mathematics": 71.0,
+      "Science": 59.0,
+      "ComputerScience": 99.0,
+      "Economics": 41.0
+    }
+  },
+  {
+    "Name": "Sheryl",
+    "Surname": "Cooper",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 47.0,
+      "Afrikaans": 84.0,
+      "Mathematics": 65.0,
+      "Science": 16.0,
+      "ComputerScience": 70.0,
+      "Economics": 55.0
+    }
+  },
+  {
+    "Name": "Loren",
+    "Surname": "Fox",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 49.0,
+      "Afrikaans": 55.0,
+      "Mathematics": 3.0,
+      "Science": 17.0,
+      "ComputerScience": 82.0,
+      "Economics": 100.0
+    }
+  },
+  {
+    "Name": "Lauren",
+    "Surname": "Hart",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 56.0,
+      "Afrikaans": 41.0,
+      "Mathematics": 11.0,
+      "Science": 12.0,
+      "ComputerScience": 52.0,
+      "Economics": 83.0
+    }
+  },
+  {
+    "Name": "Maxine",
+    "Surname": "Sharp",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 58.0,
+      "Afrikaans": 65.0,
+      "Mathematics": 30.0,
+      "Science": 9.0,
+      "ComputerScience": 33.0,
+      "Economics": 63.0
+    }
+  },
+  {
+    "Name": "Kelly",
+    "Surname": "Hampton",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 11.0,
+      "Afrikaans": 37.0,
+      "Mathematics": 53.0,
+      "Science": 14.0,
+      "ComputerScience": 25.0,
+      "Economics": 90.0
+    }
+  },
+  {
+    "Name": "Woodrow",
+    "Surname": "Romero",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 85.0,
+      "Afrikaans": 15.0,
+      "Mathematics": 9.0,
+      "Science": 5.0,
+      "ComputerScience": 19.0,
+      "Economics": 56.0
+    }
+  },
+  {
+    "Name": "Stella",
+    "Surname": "Graham",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 62.0,
+      "Afrikaans": 68.0,
+      "Mathematics": 96.0,
+      "Science": 99.0,
+      "ComputerScience": 5.0,
+      "Economics": 33.0
+    }
+  },
+  {
+    "Name": "Nathan",
+    "Surname": "Washington",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 99.0,
+      "Afrikaans": 17.0,
+      "Mathematics": 23.0,
+      "Science": 44.0,
+      "ComputerScience": 97.0,
+      "Economics": 39.0
+    }
+  },
+  {
+    "Name": "Ian",
+    "Surname": "Norton",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 90.0,
+      "Afrikaans": 54.0,
+      "Mathematics": 88.0,
+      "Science": 5.0,
+      "ComputerScience": 84.0,
+      "Economics": 59.0
+    }
+  },
+  {
+    "Name": "Jake",
+    "Surname": "Bryant",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 3.0,
+      "Afrikaans": 49.0,
+      "Mathematics": 36.0,
+      "Science": 31.0,
+      "ComputerScience": 95.0,
+      "Economics": 69.0
+    }
+  },
+  {
+    "Name": "Domingo",
+    "Surname": "Kim",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 17.0,
+      "Afrikaans": 70.0,
+      "Mathematics": 72.0,
+      "Science": 33.0,
+      "ComputerScience": 94.0,
+      "Economics": 10.0
+    }
+  },
+  {
+    "Name": "Jana",
+    "Surname": "Ball",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 18.0,
+      "Afrikaans": 49.0,
+      "Mathematics": 8.0,
+      "Science": 46.0,
+      "ComputerScience": 77.0,
+      "Economics": 22.0
+    }
+  },
+  {
+    "Name": "Mathew",
+    "Surname": "Bridges",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 33.0,
+      "Afrikaans": 86.0,
+      "Mathematics": 20.0,
+      "Science": 33.0,
+      "ComputerScience": 72.0,
+      "Economics": 16.0
+    }
+  },
+  {
+    "Name": "Jean",
+    "Surname": "Wilkerson",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 93.0,
+      "Afrikaans": 43.0,
+      "Mathematics": 67.0,
+      "Science": 12.0,
+      "ComputerScience": 37.0,
+      "Economics": 84.0
+    }
+  },
+  {
+    "Name": "Megan",
+    "Surname": "Carr",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 100.0,
+      "Afrikaans": 94.0,
+      "Mathematics": 14.0,
+      "Science": 35.0,
+      "ComputerScience": 40.0,
+      "Economics": 0.0
+    }
+  },
+  {
+    "Name": "Doreen",
+    "Surname": "Ruiz",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 69.0,
+      "Afrikaans": 23.0,
+      "Mathematics": 84.0,
+      "Science": 26.0,
+      "ComputerScience": 60.0,
+      "Economics": 21.0
+    }
+  },
+  {
+    "Name": "Mike",
+    "Surname": "Reeves",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 12.0,
+      "Afrikaans": 12.0,
+      "Mathematics": 1.0,
+      "Science": 17.0,
+      "ComputerScience": 9.0,
+      "Economics": 41.0
+    }
+  },
+  {
+    "Name": "Rachael",
+    "Surname": "Shelton",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 34.0,
+      "Afrikaans": 41.0,
+      "Mathematics": 45.0,
+      "Science": 39.0,
+      "ComputerScience": 34.0,
+      "Economics": 79.0
+    }
+  },
+  {
+    "Name": "Craig",
+    "Surname": "Clayton",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 79.0,
+      "Afrikaans": 21.0,
+      "Mathematics": 7.0,
+      "Science": 87.0,
+      "ComputerScience": 10.0,
+      "Economics": 46.0
+    }
+  },
+  {
+    "Name": "Dolores",
+    "Surname": "Allison",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 93.0,
+      "Afrikaans": 78.0,
+      "Mathematics": 88.0,
+      "Science": 58.0,
+      "ComputerScience": 23.0,
+      "Economics": 95.0
+    }
+  },
+  {
+    "Name": "Lee",
+    "Surname": "Mason",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 89.0,
+      "Afrikaans": 14.0,
+      "Mathematics": 71.0,
+      "Science": 91.0,
+      "ComputerScience": 7.0,
+      "Economics": 68.0
+    }
+  },
+  {
+    "Name": "Ann",
+    "Surname": "Cain",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 25.0,
+      "Afrikaans": 70.0,
+      "Mathematics": 22.0,
+      "Science": 66.0,
+      "ComputerScience": 37.0,
+      "Economics": 52.0
+    }
+  },
+  {
+    "Name": "Verna",
+    "Surname": "Black",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 89.0,
+      "Afrikaans": 64.0,
+      "Mathematics": 44.0,
+      "Science": 46.0,
+      "ComputerScience": 67.0,
+      "Economics": 11.0
+    }
+  },
+  {
+    "Name": "Roosevelt",
+    "Surname": "Roy",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 20.0,
+      "Afrikaans": 3.0,
+      "Mathematics": 83.0,
+      "Science": 66.0,
+      "ComputerScience": 51.0,
+      "Economics": 22.0
+    }
+  },
+  {
+    "Name": "Ryan",
+    "Surname": "Carpenter",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 26.0,
+      "Afrikaans": 68.0,
+      "Mathematics": 54.0,
+      "Science": 30.0,
+      "ComputerScience": 7.0,
+      "Economics": 3.0
+    }
+  },
+  {
+    "Name": "Raymond",
+    "Surname": "Griffith",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 81.0,
+      "Afrikaans": 76.0,
+      "Mathematics": 78.0,
+      "Science": 46.0,
+      "ComputerScience": 96.0,
+      "Economics": 41.0
+    }
+  },
+  {
+    "Name": "Dominick",
+    "Surname": "Ortiz",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 85.0,
+      "Afrikaans": 39.0,
+      "Mathematics": 35.0,
+      "Science": 25.0,
+      "ComputerScience": 23.0,
+      "Economics": 100.0
+    }
+  },
+  {
+    "Name": "Roy",
+    "Surname": "Mcguire",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 88.0,
+      "Afrikaans": 67.0,
+      "Mathematics": 34.0,
+      "Science": 12.0,
+      "ComputerScience": 31.0,
+      "Economics": 4.0
+    }
+  },
+  {
+    "Name": "Janet",
+    "Surname": "Mathis",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 41.0,
+      "Afrikaans": 38.0,
+      "Mathematics": 17.0,
+      "Science": 93.0,
+      "ComputerScience": 39.0,
+      "Economics": 30.0
+    }
+  },
+  {
+    "Name": "Mamie",
+    "Surname": "King",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 54.0,
+      "Afrikaans": 64.0,
+      "Mathematics": 97.0,
+      "Science": 6.0,
+      "ComputerScience": 78.0,
+      "Economics": 49.0
+    }
+  },
+  {
+    "Name": "Lindsay",
+    "Surname": "Barton",
+    "IsClassLeader": 0,
+    "Grade": 11,
+    "Scores": {
+      "English": 95.0,
+      "Afrikaans": 58.0,
+      "Mathematics": 77.0,
+      "Science": 59.0,
+      "ComputerScience": 66.0,
+      "Economics": 78.0
+    }
+  },
+  {
+    "Name": "Miranda",
+    "Surname": "Bishop",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 5.0,
+      "Afrikaans": 92.0,
+      "Mathematics": 52.0,
+      "Science": 59.0,
+      "ComputerScience": 63.0,
+      "Economics": 40.0
+    }
+  },
+  {
+    "Name": "Ivan",
+    "Surname": "Haynes",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 77.0,
+      "Afrikaans": 68.0,
+      "Mathematics": 8.0,
+      "Science": 68.0,
+      "ComputerScience": 79.0,
+      "Economics": 82.0
+    }
+  },
+  {
+    "Name": "Barbara",
+    "Surname": "Duncan",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 13.0,
+      "Afrikaans": 75.0,
+      "Mathematics": 87.0,
+      "Science": 22.0,
+      "ComputerScience": 76.0,
+      "Economics": 34.0
+    }
+  },
+  {
+    "Name": "Bennie",
+    "Surname": "Joseph",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 44.0,
+      "Afrikaans": 82.0,
+      "Mathematics": 56.0,
+      "Science": 58.0,
+      "ComputerScience": 43.0,
+      "Economics": 13.0
+    }
+  },
+  {
+    "Name": "Van",
+    "Surname": "Hammond",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 74.0,
+      "Afrikaans": 50.0,
+      "Mathematics": 43.0,
+      "Science": 64.0,
+      "ComputerScience": 50.0,
+      "Economics": 1.0
+    }
+  },
+  {
+    "Name": "Joanna",
+    "Surname": "Mckenzie",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 91.0,
+      "Afrikaans": 86.0,
+      "Mathematics": 55.0,
+      "Science": 68.0,
+      "ComputerScience": 72.0,
+      "Economics": 29.0
+    }
+  },
+  {
+    "Name": "Mattie",
+    "Surname": "Jordan",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 61.0,
+      "Afrikaans": 37.0,
+      "Mathematics": 92.0,
+      "Science": 2.0,
+      "ComputerScience": 29.0,
+      "Economics": 42.0
+    }
+  },
+  {
+    "Name": "Dora",
+    "Surname": "Weaver",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 28.0,
+      "Afrikaans": 65.0,
+      "Mathematics": 95.0,
+      "Science": 2.0,
+      "ComputerScience": 95.0,
+      "Economics": 27.0
+    }
+  },
+  {
+    "Name": "Lance",
+    "Surname": "Wong",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 26.0,
+      "Afrikaans": 10.0,
+      "Mathematics": 85.0,
+      "Science": 48.0,
+      "ComputerScience": 81.0,
+      "Economics": 82.0
+    }
+  },
+  {
+    "Name": "Billy",
+    "Surname": "Mccormick",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 36.0,
+      "Afrikaans": 78.0,
+      "Mathematics": 63.0,
+      "Science": 6.0,
+      "ComputerScience": 77.0,
+      "Economics": 28.0
+    }
+  },
+  {
+    "Name": "Kurt",
+    "Surname": "Collins",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 92.0,
+      "Afrikaans": 25.0,
+      "Mathematics": 56.0,
+      "Science": 69.0,
+      "ComputerScience": 51.0,
+      "Economics": 80.0
+    }
+  },
+  {
+    "Name": "Cora",
+    "Surname": "Rodriquez",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 47.0,
+      "Afrikaans": 56.0,
+      "Mathematics": 17.0,
+      "Science": 92.0,
+      "ComputerScience": 86.0,
+      "Economics": 38.0
+    }
+  },
+  {
+    "Name": "Phillip",
+    "Surname": "Cohen",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 63.0,
+      "Afrikaans": 89.0,
+      "Mathematics": 49.0,
+      "Science": 89.0,
+      "ComputerScience": 67.0,
+      "Economics": 45.0
+    }
+  },
+  {
+    "Name": "Nichole",
+    "Surname": "Rowe",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 31.0,
+      "Afrikaans": 49.0,
+      "Mathematics": 14.0,
+      "Science": 28.0,
+      "ComputerScience": 97.0,
+      "Economics": 16.0
+    }
+  },
+  {
+    "Name": "Loretta",
+    "Surname": "Norman",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 13.0,
+      "Afrikaans": 39.0,
+      "Mathematics": 85.0,
+      "Science": 24.0,
+      "ComputerScience": 32.0,
+      "Economics": 93.0
+    }
+  },
+  {
+    "Name": "Gilberto",
+    "Surname": "Moreno",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 100.0,
+      "Afrikaans": 52.0,
+      "Mathematics": 25.0,
+      "Science": 39.0,
+      "ComputerScience": 43.0,
+      "Economics": 36.0
+    }
+  },
+  {
+    "Name": "Adrian",
+    "Surname": "Nash",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 57.0,
+      "Afrikaans": 74.0,
+      "Mathematics": 93.0,
+      "Science": 59.0,
+      "ComputerScience": 44.0,
+      "Economics": 64.0
+    }
+  },
+  {
+    "Name": "Bridget",
+    "Surname": "Conner",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 59.0,
+      "Afrikaans": 67.0,
+      "Mathematics": 2.0,
+      "Science": 29.0,
+      "ComputerScience": 43.0,
+      "Economics": 29.0
+    }
+  },
+  {
+    "Name": "Bill",
+    "Surname": "Mcdonald",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 85.0,
+      "Afrikaans": 18.0,
+      "Mathematics": 19.0,
+      "Science": 97.0,
+      "ComputerScience": 73.0,
+      "Economics": 95.0
+    }
+  },
+  {
+    "Name": "Kenneth",
+    "Surname": "Terry",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 11.0,
+      "Afrikaans": 93.0,
+      "Mathematics": 75.0,
+      "Science": 45.0,
+      "ComputerScience": 22.0,
+      "Economics": 14.0
+    }
+  },
+  {
+    "Name": "Inez",
+    "Surname": "Higgins",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 2.0,
+      "Afrikaans": 77.0,
+      "Mathematics": 45.0,
+      "Science": 84.0,
+      "ComputerScience": 86.0,
+      "Economics": 47.0
+    }
+  },
+  {
+    "Name": "Wilbur",
+    "Surname": "Bell",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 53.0,
+      "Afrikaans": 96.0,
+      "Mathematics": 55.0,
+      "Science": 10.0,
+      "ComputerScience": 8.0,
+      "Economics": 90.0
+    }
+  },
+  {
+    "Name": "Wendy",
+    "Surname": "Reid",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 25.0,
+      "Afrikaans": 58.0,
+      "Mathematics": 19.0,
+      "Science": 30.0,
+      "ComputerScience": 73.0,
+      "Economics": 11.0
+    }
+  },
+  {
+    "Name": "Wilson",
+    "Surname": "Cannon",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 84.0,
+      "Afrikaans": 100.0,
+      "Mathematics": 27.0,
+      "Science": 79.0,
+      "ComputerScience": 97.0,
+      "Economics": 14.0
+    }
+  },
+  {
+    "Name": "Joel",
+    "Surname": "Warner",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 9.0,
+      "Afrikaans": 97.0,
+      "Mathematics": 19.0,
+      "Science": 94.0,
+      "ComputerScience": 87.0,
+      "Economics": 36.0
+    }
+  },
+  {
+    "Name": "Oliver",
+    "Surname": "Payne",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 53.0,
+      "Afrikaans": 63.0,
+      "Mathematics": 8.0,
+      "Science": 65.0,
+      "ComputerScience": 33.0,
+      "Economics": 85.0
+    }
+  },
+  {
+    "Name": "Jody",
+    "Surname": "Potter",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 21.0,
+      "Afrikaans": 9.0,
+      "Mathematics": 45.0,
+      "Science": 26.0,
+      "ComputerScience": 2.0,
+      "Economics": 26.0
+    }
+  },
+  {
+    "Name": "Eva",
+    "Surname": "Stephens",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 89.0,
+      "Afrikaans": 62.0,
+      "Mathematics": 49.0,
+      "Science": 77.0,
+      "ComputerScience": 1.0,
+      "Economics": 89.0
+    }
+  },
+  {
+    "Name": "Isabel",
+    "Surname": "Ellis",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 87.0,
+      "Afrikaans": 28.0,
+      "Mathematics": 44.0,
+      "Science": 36.0,
+      "ComputerScience": 71.0,
+      "Economics": 96.0
+    }
+  },
+  {
+    "Name": "Pablo",
+    "Surname": "Byrd",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 49.0,
+      "Afrikaans": 95.0,
+      "Mathematics": 57.0,
+      "Science": 15.0,
+      "ComputerScience": 94.0,
+      "Economics": 19.0
+    }
+  },
+  {
+    "Name": "Myrtle",
+    "Surname": "Fleming",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 40.0,
+      "Afrikaans": 22.0,
+      "Mathematics": 65.0,
+      "Science": 68.0,
+      "ComputerScience": 87.0,
+      "Economics": 57.0
+    }
+  },
+  {
+    "Name": "Annette",
+    "Surname": "Harrison",
+    "IsClassLeader": 0,
+    "Grade": 8,
+    "Scores": {
+      "English": 73.0,
+      "Afrikaans": 100.0,
+      "Mathematics": 100.0,
+      "Science": 78.0,
+      "ComputerScience": 92.0,
+      "Economics": 88.0
+    }
+  },
+  {
+    "Name": "Maurice",
+    "Surname": "Elliott",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 84.0,
+      "Afrikaans": 6.0,
+      "Mathematics": 64.0,
+      "Science": 80.0,
+      "ComputerScience": 23.0,
+      "Economics": 44.0
+    }
+  },
+  {
+    "Name": "Brandon",
+    "Surname": "Reed",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 33.0,
+      "Afrikaans": 21.0,
+      "Mathematics": 73.0,
+      "Science": 6.0,
+      "ComputerScience": 64.0,
+      "Economics": 23.0
+    }
+  },
+  {
+    "Name": "Sara",
+    "Surname": "Dawson",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 30.0,
+      "Afrikaans": 51.0,
+      "Mathematics": 35.0,
+      "Science": 39.0,
+      "ComputerScience": 3.0,
+      "Economics": 79.0
+    }
+  },
+  {
+    "Name": "Johnnie",
+    "Surname": "Ferguson",
+    "IsClassLeader": 0,
+    "Grade": 12,
+    "Scores": {
+      "English": 70.0,
+      "Afrikaans": 68.0,
+      "Mathematics": 59.0,
+      "Science": 81.0,
+      "ComputerScience": 81.0,
+      "Economics": 100.0
+    }
+  },
+  {
+    "Name": "Tricia",
+    "Surname": "Henderson",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 97.0,
+      "Afrikaans": 41.0,
+      "Mathematics": 11.0,
+      "Science": 79.0,
+      "ComputerScience": 92.0,
+      "Economics": 38.0
+    }
+  },
+  {
+    "Name": "Zachary",
+    "Surname": "Clark",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 43.0,
+      "Afrikaans": 19.0,
+      "Mathematics": 81.0,
+      "Science": 60.0,
+      "ComputerScience": 67.0,
+      "Economics": 3.0
+    }
+  },
+  {
+    "Name": "Julie",
+    "Surname": "Long",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 45.0,
+      "Afrikaans": 34.0,
+      "Mathematics": 45.0,
+      "Science": 83.0,
+      "ComputerScience": 46.0,
+      "Economics": 90.0
+    }
+  },
+  {
+    "Name": "Anthony",
+    "Surname": "Ryan",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 3.0,
+      "Afrikaans": 40.0,
+      "Mathematics": 18.0,
+      "Science": 82.0,
+      "ComputerScience": 61.0,
+      "Economics": 29.0
+    }
+  },
+  {
+    "Name": "Anne",
+    "Surname": "Parks",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 29.0,
+      "Afrikaans": 99.0,
+      "Mathematics": 62.0,
+      "Science": 59.0,
+      "ComputerScience": 33.0,
+      "Economics": 73.0
+    }
+  },
+  {
+    "Name": "Geneva",
+    "Surname": "Price",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 22.0,
+      "Afrikaans": 56.0,
+      "Mathematics": 65.0,
+      "Science": 81.0,
+      "ComputerScience": 73.0,
+      "Economics": 54.0
+    }
+  },
+  {
+    "Name": "Lamar",
+    "Surname": "Gardner",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 64.0,
+      "Afrikaans": 75.0,
+      "Mathematics": 32.0,
+      "Science": 14.0,
+      "ComputerScience": 70.0,
+      "Economics": 53.0
+    }
+  },
+  {
+    "Name": "Thomas",
+    "Surname": "Horton",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 72.0,
+      "Afrikaans": 63.0,
+      "Mathematics": 58.0,
+      "Science": 74.0,
+      "ComputerScience": 64.0,
+      "Economics": 46.0
+    }
+  },
+  {
+    "Name": "Rodolfo",
+    "Surname": "Palmer",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 18.0,
+      "Afrikaans": 75.0,
+      "Mathematics": 76.0,
+      "Science": 54.0,
+      "ComputerScience": 96.0,
+      "Economics": 93.0
+    }
+  },
+  {
+    "Name": "Jasmine",
+    "Surname": "Ramos",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 84.0,
+      "Afrikaans": 35.0,
+      "Mathematics": 28.0,
+      "Science": 28.0,
+      "ComputerScience": 91.0,
+      "Economics": 42.0
+    }
+  },
+  {
+    "Name": "Robyn",
+    "Surname": "Fisher",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 79.0,
+      "Afrikaans": 77.0,
+      "Mathematics": 96.0,
+      "Science": 81.0,
+      "ComputerScience": 44.0,
+      "Economics": 50.0
+    }
+  },
+  {
+    "Name": "Toni",
+    "Surname": "Burgess",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 71.0,
+      "Afrikaans": 6.0,
+      "Mathematics": 76.0,
+      "Science": 88.0,
+      "ComputerScience": 2.0,
+      "Economics": 2.0
+    }
+  },
+  {
+    "Name": "Belinda",
+    "Surname": "Fitzgerald",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 38.0,
+      "Afrikaans": 93.0,
+      "Mathematics": 48.0,
+      "Science": 30.0,
+      "ComputerScience": 66.0,
+      "Economics": 6.0
+    }
+  },
+  {
+    "Name": "Ed",
+    "Surname": "Guerrero",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 3.0,
+      "Afrikaans": 19.0,
+      "Mathematics": 71.0,
+      "Science": 66.0,
+      "ComputerScience": 70.0,
+      "Economics": 83.0
+    }
+  },
+  {
+    "Name": "Florence",
+    "Surname": "Harvey",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 81.0,
+      "Afrikaans": 19.0,
+      "Mathematics": 58.0,
+      "Science": 86.0,
+      "ComputerScience": 14.0,
+      "Economics": 20.0
+    }
+  },
+  {
+    "Name": "Anita",
+    "Surname": "James",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 88.0,
+      "Afrikaans": 65.0,
+      "Mathematics": 66.0,
+      "Science": 9.0,
+      "ComputerScience": 43.0,
+      "Economics": 58.0
+    }
+  },
+  {
+    "Name": "Crystal",
+    "Surname": "Pearson",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 6.0,
+      "Afrikaans": 87.0,
+      "Mathematics": 53.0,
+      "Science": 93.0,
+      "ComputerScience": 55.0,
+      "Economics": 53.0
+    }
+  },
+  {
+    "Name": "Nelson",
+    "Surname": "Dixon",
+    "IsClassLeader": 1,
+    "Grade": 10,
+    "Scores": {
+      "English": 98.0,
+      "Afrikaans": 76.0,
+      "Mathematics": 96.0,
+      "Science": 93.0,
+      "ComputerScience": 10.0,
+      "Economics": 7.0
+    }
+  },
+  {
+    "Name": "Rafael",
+    "Surname": "Mcbride",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 11.0,
+      "Afrikaans": 11.0,
+      "Mathematics": 71.0,
+      "Science": 82.0,
+      "ComputerScience": 26.0,
+      "Economics": 28.0
+    }
+  },
+  {
+    "Name": "Rodney",
+    "Surname": "Richards",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 2.0,
+      "Afrikaans": 66.0,
+      "Mathematics": 35.0,
+      "Science": 50.0,
+      "ComputerScience": 83.0,
+      "Economics": 30.0
+    }
+  },
+  {
+    "Name": "Alvin",
+    "Surname": "Floyd",
+    "IsClassLeader": 1,
+    "Grade": 8,
+    "Scores": {
+      "English": 11.0,
+      "Afrikaans": 30.0,
+      "Mathematics": 87.0,
+      "Science": 24.0,
+      "ComputerScience": 40.0,
+      "Economics": 9.0
+    }
+  },
+  {
+    "Name": "Ruben",
+    "Surname": "Hunt",
+    "IsClassLeader": 1,
+    "Grade": 9,
+    "Scores": {
+      "English": 26.0,
+      "Afrikaans": 29.0,
+      "Mathematics": 62.0,
+      "Science": 23.0,
+      "ComputerScience": 79.0,
+      "Economics": 60.0
+    }
+  },
+  {
+    "Name": "Cesar",
+    "Surname": "Brooks",
+    "IsClassLeader": 0,
+    "Grade": 10,
+    "Scores": {
+      "English": 55.0,
+      "Afrikaans": 96.0,
+      "Mathematics": 94.0,
+      "Science": 98.0,
+      "ComputerScience": 98.0,
+      "Economics": 100.0
+    }
+  },
+  {
+    "Name": "Arnold",
+    "Surname": "Hamilton",
+    "IsClassLeader": 1,
+    "Grade": 11,
+    "Scores": {
+      "English": 29.0,
+      "Afrikaans": 69.0,
+      "Mathematics": 17.0,
+      "Science": 55.0,
+      "ComputerScience": 15.0,
+      "Economics": 25.0
+    }
+  },
+  {
+    "Name": "Eduardo",
+    "Surname": "Reese",
+    "IsClassLeader": 1,
+    "Grade": 12,
+    "Scores": {
+      "English": 60.0,
+      "Afrikaans": 56.0,
+      "Mathematics": 65.0,
+      "Science": 86.0,
+      "ComputerScience": 27.0,
+      "Economics": 58.0
+    }
+  }
+]

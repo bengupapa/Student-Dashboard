@@ -1,0 +1,42 @@
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.UnitTest.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Core.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.UnitTest\obj\Debug\AAA.UnitTest.pdb

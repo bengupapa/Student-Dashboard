@@ -1,0 +1,27 @@
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.pdb
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.dll
+C:\Users\Papa\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.DataAccess.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\AAA.Shared.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.dll
+C:\Users\bengupj\Desktop\Pj Stuff\StudentDashboard\AAA.StudentDashboard\AAA.DataAccess\obj\Debug\AAA.DataAccess.pdb

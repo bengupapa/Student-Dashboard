@@ -1,0 +1,575 @@
+Name,Surname,Is Class Leader,Grade,Subject,Score
+Walter,Hernandez,No,8,English,84
+Walter,Hernandez,No,8,Afrikaans,59
+Walter,Hernandez,No,8,Mathematics,44
+Walter,Hernandez,No,8,Science,34
+Walter,Hernandez,No,8,Computer Science,10
+Walter,Hernandez,No,8,Economics,93
+Randy,Strickland,Yes,9,English,71
+Randy,Strickland,Yes,9,Afrikaans,57
+Randy,Strickland,Yes,9,Mathematics,80
+Randy,Strickland,Yes,9,Science,52
+Randy,Strickland,Yes,9,Computer Science,89
+Randy,Strickland,Yes,9,Economics,83
+Cecil,Mitchell,No,10,English,60
+Cecil,Mitchell,No,10,Afrikaans,94
+Cecil,Mitchell,No,10,Mathematics,71
+Cecil,Mitchell,No,10,Science,59
+Cecil,Mitchell,No,10,Computer Science,99
+Cecil,Mitchell,No,10,Economics,41
+Sheryl,Cooper,No,11,English,47
+Sheryl,Cooper,No,11,Afrikaans,84
+Sheryl,Cooper,No,11,Mathematics,65
+Sheryl,Cooper,No,11,Science,16
+Sheryl,Cooper,No,11,Computer Science,70
+Sheryl,Cooper,No,11,Economics,55
+Loren,Fox,No,12,English,49
+Loren,Fox,No,12,Afrikaans,55
+Loren,Fox,No,12,Mathematics,3
+Loren,Fox,No,12,Science,17
+Loren,Fox,No,12,Computer Science,82
+Loren,Fox,No,12,Economics,100
+Lauren,Hart,No,8,English,56
+Lauren,Hart,No,8,Afrikaans,41
+Lauren,Hart,No,8,Mathematics,11
+Lauren,Hart,No,8,Science,12
+Lauren,Hart,No,8,Computer Science,52
+Lauren,Hart,No,8,Economics,83
+Maxine,Sharp,No,9,English,58
+Maxine,Sharp,No,9,Afrikaans,65
+Maxine,Sharp,No,9,Mathematics,30
+Maxine,Sharp,No,9,Science,9
+Maxine,Sharp,No,9,Computer Science,33
+Maxine,Sharp,No,9,Economics,63
+Kelly,Hampton,No,10,English,11
+Kelly,Hampton,No,10,Afrikaans,37
+Kelly,Hampton,No,10,Mathematics,53
+Kelly,Hampton,No,10,Science,14
+Kelly,Hampton,No,10,Computer Science,25
+Kelly,Hampton,No,10,Economics,90
+Woodrow,Romero,No,11,English,85
+Woodrow,Romero,No,11,Afrikaans,15
+Woodrow,Romero,No,11,Mathematics,9
+Woodrow,Romero,No,11,Science,5
+Woodrow,Romero,No,11,Computer Science,19
+Woodrow,Romero,No,11,Economics,56
+Stella,Graham,No,12,English,62
+Stella,Graham,No,12,Afrikaans,68
+Stella,Graham,No,12,Mathematics,96
+Stella,Graham,No,12,Science,99
+Stella,Graham,No,12,Computer Science,5
+Stella,Graham,No,12,Economics,33
+Nathan,Washington,No,8,English,99
+Nathan,Washington,No,8,Afrikaans,17
+Nathan,Washington,No,8,Mathematics,23
+Nathan,Washington,No,8,Science,44
+Nathan,Washington,No,8,Computer Science,97
+Nathan,Washington,No,8,Economics,39
+Ian,Norton,No,9,English,90
+Ian,Norton,No,9,Afrikaans,54
+Ian,Norton,No,9,Mathematics,88
+Ian,Norton,No,9,Science,5
+Ian,Norton,No,9,Computer Science,84
+Ian,Norton,No,9,Economics,59
+Jake,Bryant,No,10,English,3
+Jake,Bryant,No,10,Afrikaans,49
+Jake,Bryant,No,10,Mathematics,36
+Jake,Bryant,No,10,Science,31
+Jake,Bryant,No,10,Computer Science,95
+Jake,Bryant,No,10,Economics,69
+Domingo,Kim,No,11,English,17
+Domingo,Kim,No,11,Afrikaans,70
+Domingo,Kim,No,11,Mathematics,72
+Domingo,Kim,No,11,Science,33
+Domingo,Kim,No,11,Computer Science,94
+Domingo,Kim,No,11,Economics,10
+Jana,Ball,No,12,English,18
+Jana,Ball,No,12,Afrikaans,49
+Jana,Ball,No,12,Mathematics,8
+Jana,Ball,No,12,Science,46
+Jana,Ball,No,12,Computer Science,77
+Jana,Ball,No,12,Economics,22
+Mathew,Bridges,No,8,English,33
+Mathew,Bridges,No,8,Afrikaans,86
+Mathew,Bridges,No,8,Mathematics,20
+Mathew,Bridges,No,8,Science,33
+Mathew,Bridges,No,8,Computer Science,72
+Mathew,Bridges,No,8,Economics,16
+Jean,Wilkerson,No,9,English,93
+Jean,Wilkerson,No,9,Afrikaans,43
+Jean,Wilkerson,No,9,Mathematics,67
+Jean,Wilkerson,No,9,Science,12
+Jean,Wilkerson,No,9,Computer Science,37
+Jean,Wilkerson,No,9,Economics,84
+Megan,Carr,No,10,English,100
+Megan,Carr,No,10,Afrikaans,94
+Megan,Carr,No,10,Mathematics,14
+Megan,Carr,No,10,Science,35
+Megan,Carr,No,10,Computer Science,40
+Megan,Carr,No,10,Economics,0
+Doreen,Ruiz,No,11,English,69
+Doreen,Ruiz,No,11,Afrikaans,23
+Doreen,Ruiz,No,11,Mathematics,84
+Doreen,Ruiz,No,11,Science,26
+Doreen,Ruiz,No,11,Computer Science,60
+Doreen,Ruiz,No,11,Economics,21
+Mike,Reeves,No,12,English,12
+Mike,Reeves,No,12,Afrikaans,12
+Mike,Reeves,No,12,Mathematics,1
+Mike,Reeves,No,12,Science,17
+Mike,Reeves,No,12,Computer Science,9
+Mike,Reeves,No,12,Economics,41
+Rachael,Shelton,No,8,English,34
+Rachael,Shelton,No,8,Afrikaans,41
+Rachael,Shelton,No,8,Mathematics,45
+Rachael,Shelton,No,8,Science,39
+Rachael,Shelton,No,8,Computer Science,34
+Rachael,Shelton,No,8,Economics,79
+Craig,Clayton,No,9,English,79
+Craig,Clayton,No,9,Afrikaans,21
+Craig,Clayton,No,9,Mathematics,7
+Craig,Clayton,No,9,Science,87
+Craig,Clayton,No,9,Computer Science,10
+Craig,Clayton,No,9,Economics,46
+Dolores,Allison,No,10,English,93
+Dolores,Allison,No,10,Afrikaans,78
+Dolores,Allison,No,10,Mathematics,88
+Dolores,Allison,No,10,Science,58
+Dolores,Allison,No,10,Computer Science,23
+Dolores,Allison,No,10,Economics,95
+Lee,Mason,No,11,English,89
+Lee,Mason,No,11,Afrikaans,14
+Lee,Mason,No,11,Mathematics,71
+Lee,Mason,No,11,Science,91
+Lee,Mason,No,11,Computer Science,7
+Lee,Mason,No,11,Economics,68
+Ann,Cain,No,12,English,25
+Ann,Cain,No,12,Afrikaans,70
+Ann,Cain,No,12,Mathematics,22
+Ann,Cain,No,12,Science,66
+Ann,Cain,No,12,Computer Science,37
+Ann,Cain,No,12,Economics,52
+Verna,Black,No,8,English,89
+Verna,Black,No,8,Afrikaans,64
+Verna,Black,No,8,Mathematics,44
+Verna,Black,No,8,Science,46
+Verna,Black,No,8,Computer Science,67
+Verna,Black,No,8,Economics,11
+Roosevelt,Roy,No,9,English,20
+Roosevelt,Roy,No,9,Afrikaans,3
+Roosevelt,Roy,No,9,Mathematics,83
+Roosevelt,Roy,No,9,Science,66
+Roosevelt,Roy,No,9,Computer Science,51
+Roosevelt,Roy,No,9,Economics,22
+Ryan,Carpenter,No,10,English,26
+Ryan,Carpenter,No,10,Afrikaans,68
+Ryan,Carpenter,No,10,Mathematics,54
+Ryan,Carpenter,No,10,Science,30
+Ryan,Carpenter,No,10,Computer Science,7
+Ryan,Carpenter,No,10,Economics,3
+Raymond,Griffith,No,11,English,81
+Raymond,Griffith,No,11,Afrikaans,76
+Raymond,Griffith,No,11,Mathematics,78
+Raymond,Griffith,No,11,Science,46
+Raymond,Griffith,No,11,Computer Science,96
+Raymond,Griffith,No,11,Economics,41
+Dominick,Ortiz,No,12,English,85
+Dominick,Ortiz,No,12,Afrikaans,39
+Dominick,Ortiz,No,12,Mathematics,35
+Dominick,Ortiz,No,12,Science,25
+Dominick,Ortiz,No,12,Computer Science,23
+Dominick,Ortiz,No,12,Economics,100
+Roy,Mcguire,No,8,English,88
+Roy,Mcguire,No,8,Afrikaans,67
+Roy,Mcguire,No,8,Mathematics,34
+Roy,Mcguire,No,8,Science,12
+Roy,Mcguire,No,8,Computer Science,31
+Roy,Mcguire,No,8,Economics,4
+Janet,Mathis,No,9,English,41
+Janet,Mathis,No,9,Afrikaans,38
+Janet,Mathis,No,9,Mathematics,17
+Janet,Mathis,No,9,Science,93
+Janet,Mathis,No,9,Computer Science,39
+Janet,Mathis,No,9,Economics,30
+Mamie,King,No,10,English,54
+Mamie,King,No,10,Afrikaans,64
+Mamie,King,No,10,Mathematics,97
+Mamie,King,No,10,Science,6
+Mamie,King,No,10,Computer Science,78
+Mamie,King,No,10,Economics,49
+Lindsay,Barton,Yes,11,English,86
+Lindsay,Barton,Yes,11,Afrikaans,53
+Lindsay,Barton,Yes,11,Mathematics,70
+Lindsay,Barton,Yes,11,Science,54
+Lindsay,Barton,Yes,11,Computer Science,60
+Lindsay,Barton,Yes,11,Economics,71
+Miranda,Bishop,No,12,English,5
+Miranda,Bishop,No,12,Afrikaans,92
+Miranda,Bishop,No,12,Mathematics,52
+Miranda,Bishop,No,12,Science,59
+Miranda,Bishop,No,12,Computer Science,63
+Miranda,Bishop,No,12,Economics,40
+Ivan,Haynes,No,8,English,77
+Ivan,Haynes,No,8,Afrikaans,68
+Ivan,Haynes,No,8,Mathematics,8
+Ivan,Haynes,No,8,Science,68
+Ivan,Haynes,No,8,Computer Science,79
+Ivan,Haynes,No,8,Economics,82
+Barbara,Duncan,No,9,English,13
+Barbara,Duncan,No,9,Afrikaans,75
+Barbara,Duncan,No,9,Mathematics,87
+Barbara,Duncan,No,9,Science,22
+Barbara,Duncan,No,9,Computer Science,76
+Barbara,Duncan,No,9,Economics,34
+Bennie,Joseph,No,10,English,44
+Bennie,Joseph,No,10,Afrikaans,82
+Bennie,Joseph,No,10,Mathematics,56
+Bennie,Joseph,No,10,Science,58
+Bennie,Joseph,No,10,Computer Science,43
+Bennie,Joseph,No,10,Economics,13
+Van,Hammond,No,11,English,74
+Van,Hammond,No,11,Afrikaans,50
+Van,Hammond,No,11,Mathematics,43
+Van,Hammond,No,11,Science,64
+Van,Hammond,No,11,Computer Science,50
+Van,Hammond,No,11,Economics,1
+Joanna,Mckenzie,No,12,English,91
+Joanna,Mckenzie,No,12,Afrikaans,86
+Joanna,Mckenzie,No,12,Mathematics,55
+Joanna,Mckenzie,No,12,Science,68
+Joanna,Mckenzie,No,12,Computer Science,72
+Joanna,Mckenzie,No,12,Economics,29
+Mattie,Jordan,No,8,English,61
+Mattie,Jordan,No,8,Afrikaans,37
+Mattie,Jordan,No,8,Mathematics,92
+Mattie,Jordan,No,8,Science,2
+Mattie,Jordan,No,8,Computer Science,29
+Mattie,Jordan,No,8,Economics,42
+Dora,Weaver,No,9,English,28
+Dora,Weaver,No,9,Afrikaans,65
+Dora,Weaver,No,9,Mathematics,95
+Dora,Weaver,No,9,Science,2
+Dora,Weaver,No,9,Computer Science,95
+Dora,Weaver,No,9,Economics,27
+Lance,Wong,No,10,English,26
+Lance,Wong,No,10,Afrikaans,10
+Lance,Wong,No,10,Mathematics,85
+Lance,Wong,No,10,Science,48
+Lance,Wong,No,10,Computer Science,81
+Lance,Wong,No,10,Economics,82
+Billy,Mccormick,No,11,English,36
+Billy,Mccormick,No,11,Afrikaans,78
+Billy,Mccormick,No,11,Mathematics,63
+Billy,Mccormick,No,11,Science,6
+Billy,Mccormick,No,11,Computer Science,77
+Billy,Mccormick,No,11,Economics,28
+Kurt,Collins,No,12,English,92
+Kurt,Collins,No,12,Afrikaans,25
+Kurt,Collins,No,12,Mathematics,56
+Kurt,Collins,No,12,Science,69
+Kurt,Collins,No,12,Computer Science,51
+Kurt,Collins,No,12,Economics,80
+Cora,Rodriquez,No,8,English,47
+Cora,Rodriquez,No,8,Afrikaans,56
+Cora,Rodriquez,No,8,Mathematics,17
+Cora,Rodriquez,No,8,Science,92
+Cora,Rodriquez,No,8,Computer Science,86
+Cora,Rodriquez,No,8,Economics,38
+Phillip,Cohen,No,9,English,63
+Phillip,Cohen,No,9,Afrikaans,89
+Phillip,Cohen,No,9,Mathematics,49
+Phillip,Cohen,No,9,Science,89
+Phillip,Cohen,No,9,Computer Science,67
+Phillip,Cohen,No,9,Economics,45
+Nichole,Rowe,No,10,English,31
+Nichole,Rowe,No,10,Afrikaans,49
+Nichole,Rowe,No,10,Mathematics,14
+Nichole,Rowe,No,10,Science,28
+Nichole,Rowe,No,10,Computer Science,97
+Nichole,Rowe,No,10,Economics,16
+Loretta,Norman,No,11,English,13
+Loretta,Norman,No,11,Afrikaans,39
+Loretta,Norman,No,11,Mathematics,85
+Loretta,Norman,No,11,Science,24
+Loretta,Norman,No,11,Computer Science,32
+Loretta,Norman,No,11,Economics,93
+Gilberto,Moreno,No,12,English,100
+Gilberto,Moreno,No,12,Afrikaans,52
+Gilberto,Moreno,No,12,Mathematics,25
+Gilberto,Moreno,No,12,Science,39
+Gilberto,Moreno,No,12,Computer Science,43
+Gilberto,Moreno,No,12,Economics,36
+Adrian,Nash,No,8,English,57
+Adrian,Nash,No,8,Afrikaans,74
+Adrian,Nash,No,8,Mathematics,93
+Adrian,Nash,No,8,Science,59
+Adrian,Nash,No,8,Computer Science,44
+Adrian,Nash,No,8,Economics,64
+Bridget,Conner,No,9,English,59
+Bridget,Conner,No,9,Afrikaans,67
+Bridget,Conner,No,9,Mathematics,2
+Bridget,Conner,No,9,Science,29
+Bridget,Conner,No,9,Computer Science,43
+Bridget,Conner,No,9,Economics,29
+Bill,Mcdonald,No,10,English,85
+Bill,Mcdonald,No,10,Afrikaans,18
+Bill,Mcdonald,No,10,Mathematics,19
+Bill,Mcdonald,No,10,Science,97
+Bill,Mcdonald,No,10,Computer Science,73
+Bill,Mcdonald,No,10,Economics,95
+Kenneth,Terry,No,11,English,11
+Kenneth,Terry,No,11,Afrikaans,93
+Kenneth,Terry,No,11,Mathematics,75
+Kenneth,Terry,No,11,Science,45
+Kenneth,Terry,No,11,Computer Science,22
+Kenneth,Terry,No,11,Economics,14
+Inez,Higgins,No,12,English,2
+Inez,Higgins,No,12,Afrikaans,77
+Inez,Higgins,No,12,Mathematics,45
+Inez,Higgins,No,12,Science,84
+Inez,Higgins,No,12,Computer Science,86
+Inez,Higgins,No,12,Economics,47
+Wilbur,Bell,No,8,English,53
+Wilbur,Bell,No,8,Afrikaans,96
+Wilbur,Bell,No,8,Mathematics,55
+Wilbur,Bell,No,8,Science,10
+Wilbur,Bell,No,8,Computer Science,8
+Wilbur,Bell,No,8,Economics,90
+Wendy,Reid,No,9,English,25
+Wendy,Reid,No,9,Afrikaans,58
+Wendy,Reid,No,9,Mathematics,19
+Wendy,Reid,No,9,Science,30
+Wendy,Reid,No,9,Computer Science,73
+Wendy,Reid,No,9,Economics,11
+Wilson,Cannon,No,10,English,84
+Wilson,Cannon,No,10,Afrikaans,100
+Wilson,Cannon,No,10,Mathematics,27
+Wilson,Cannon,No,10,Science,79
+Wilson,Cannon,No,10,Computer Science,97
+Wilson,Cannon,No,10,Economics,14
+Joel,Warner,No,11,English,9
+Joel,Warner,No,11,Afrikaans,97
+Joel,Warner,No,11,Mathematics,19
+Joel,Warner,No,11,Science,94
+Joel,Warner,No,11,Computer Science,87
+Joel,Warner,No,11,Economics,36
+Oliver,Payne,No,12,English,53
+Oliver,Payne,No,12,Afrikaans,63
+Oliver,Payne,No,12,Mathematics,8
+Oliver,Payne,No,12,Science,65
+Oliver,Payne,No,12,Computer Science,33
+Oliver,Payne,No,12,Economics,85
+Jody,Potter,No,8,English,21
+Jody,Potter,No,8,Afrikaans,9
+Jody,Potter,No,8,Mathematics,45
+Jody,Potter,No,8,Science,26
+Jody,Potter,No,8,Computer Science,2
+Jody,Potter,No,8,Economics,26
+Eva,Stephens,No,9,English,89
+Eva,Stephens,No,9,Afrikaans,62
+Eva,Stephens,No,9,Mathematics,49
+Eva,Stephens,No,9,Science,77
+Eva,Stephens,No,9,Computer Science,1
+Eva,Stephens,No,9,Economics,89
+Isabel,Ellis,No,10,English,87
+Isabel,Ellis,No,10,Afrikaans,28
+Isabel,Ellis,No,10,Mathematics,44
+Isabel,Ellis,No,10,Science,36
+Isabel,Ellis,No,10,Computer Science,71
+Isabel,Ellis,No,10,Economics,96
+Pablo,Byrd,No,11,English,49
+Pablo,Byrd,No,11,Afrikaans,95
+Pablo,Byrd,No,11,Mathematics,57
+Pablo,Byrd,No,11,Science,15
+Pablo,Byrd,No,11,Computer Science,94
+Pablo,Byrd,No,11,Economics,19
+Myrtle,Fleming,No,12,English,40
+Myrtle,Fleming,No,12,Afrikaans,22
+Myrtle,Fleming,No,12,Mathematics,65
+Myrtle,Fleming,No,12,Science,68
+Myrtle,Fleming,No,12,Computer Science,87
+Myrtle,Fleming,No,12,Economics,57
+Annette,Harrison,Yes,8,English,66
+Annette,Harrison,Yes,8,Afrikaans,97
+Annette,Harrison,Yes,8,Mathematics,98
+Annette,Harrison,Yes,8,Science,71
+Annette,Harrison,Yes,8,Computer Science,84
+Annette,Harrison,Yes,8,Economics,80
+Maurice,Elliott,No,9,English,84
+Maurice,Elliott,No,9,Afrikaans,6
+Maurice,Elliott,No,9,Mathematics,64
+Maurice,Elliott,No,9,Science,80
+Maurice,Elliott,No,9,Computer Science,23
+Maurice,Elliott,No,9,Economics,44
+Brandon,Reed,No,10,English,33
+Brandon,Reed,No,10,Afrikaans,21
+Brandon,Reed,No,10,Mathematics,73
+Brandon,Reed,No,10,Science,6
+Brandon,Reed,No,10,Computer Science,64
+Brandon,Reed,No,10,Economics,23
+Sara,Dawson,No,11,English,30
+Sara,Dawson,No,11,Afrikaans,51
+Sara,Dawson,No,11,Mathematics,35
+Sara,Dawson,No,11,Science,39
+Sara,Dawson,No,11,Computer Science,3
+Sara,Dawson,No,11,Economics,79
+Johnnie,Ferguson,Yes,12,English,64
+Johnnie,Ferguson,Yes,12,Afrikaans,62
+Johnnie,Ferguson,Yes,12,Mathematics,54
+Johnnie,Ferguson,Yes,12,Science,74
+Johnnie,Ferguson,Yes,12,Computer Science,74
+Johnnie,Ferguson,Yes,12,Economics,97
+Tricia,Henderson,No,8,English,97
+Tricia,Henderson,No,8,Afrikaans,41
+Tricia,Henderson,No,8,Mathematics,11
+Tricia,Henderson,No,8,Science,79
+Tricia,Henderson,No,8,Computer Science,92
+Tricia,Henderson,No,8,Economics,38
+Zachary,Clark,No,9,English,43
+Zachary,Clark,No,9,Afrikaans,19
+Zachary,Clark,No,9,Mathematics,81
+Zachary,Clark,No,9,Science,60
+Zachary,Clark,No,9,Computer Science,67
+Zachary,Clark,No,9,Economics,3
+Julie,Long,No,10,English,45
+Julie,Long,No,10,Afrikaans,34
+Julie,Long,No,10,Mathematics,45
+Julie,Long,No,10,Science,83
+Julie,Long,No,10,Computer Science,46
+Julie,Long,No,10,Economics,90
+Anthony,Ryan,No,11,English,3
+Anthony,Ryan,No,11,Afrikaans,40
+Anthony,Ryan,No,11,Mathematics,18
+Anthony,Ryan,No,11,Science,82
+Anthony,Ryan,No,11,Computer Science,61
+Anthony,Ryan,No,11,Economics,29
+Anne,Parks,No,12,English,29
+Anne,Parks,No,12,Afrikaans,99
+Anne,Parks,No,12,Mathematics,62
+Anne,Parks,No,12,Science,59
+Anne,Parks,No,12,Computer Science,33
+Anne,Parks,No,12,Economics,73
+Geneva,Price,No,8,English,22
+Geneva,Price,No,8,Afrikaans,56
+Geneva,Price,No,8,Mathematics,65
+Geneva,Price,No,8,Science,81
+Geneva,Price,No,8,Computer Science,73
+Geneva,Price,No,8,Economics,54
+Lamar,Gardner,No,9,English,64
+Lamar,Gardner,No,9,Afrikaans,75
+Lamar,Gardner,No,9,Mathematics,32
+Lamar,Gardner,No,9,Science,14
+Lamar,Gardner,No,9,Computer Science,70
+Lamar,Gardner,No,9,Economics,53
+Thomas,Horton,No,10,English,72
+Thomas,Horton,No,10,Afrikaans,63
+Thomas,Horton,No,10,Mathematics,58
+Thomas,Horton,No,10,Science,74
+Thomas,Horton,No,10,Computer Science,64
+Thomas,Horton,No,10,Economics,46
+Rodolfo,Palmer,No,11,English,18
+Rodolfo,Palmer,No,11,Afrikaans,75
+Rodolfo,Palmer,No,11,Mathematics,76
+Rodolfo,Palmer,No,11,Science,54
+Rodolfo,Palmer,No,11,Computer Science,96
+Rodolfo,Palmer,No,11,Economics,93
+Jasmine,Ramos,No,12,English,84
+Jasmine,Ramos,No,12,Afrikaans,35
+Jasmine,Ramos,No,12,Mathematics,28
+Jasmine,Ramos,No,12,Science,28
+Jasmine,Ramos,No,12,Computer Science,91
+Jasmine,Ramos,No,12,Economics,42
+Robyn,Fisher,No,8,English,79
+Robyn,Fisher,No,8,Afrikaans,77
+Robyn,Fisher,No,8,Mathematics,96
+Robyn,Fisher,No,8,Science,81
+Robyn,Fisher,No,8,Computer Science,44
+Robyn,Fisher,No,8,Economics,50
+Toni,Burgess,No,9,English,71
+Toni,Burgess,No,9,Afrikaans,6
+Toni,Burgess,No,9,Mathematics,76
+Toni,Burgess,No,9,Science,88
+Toni,Burgess,No,9,Computer Science,2
+Toni,Burgess,No,9,Economics,2
+Belinda,Fitzgerald,No,10,English,38
+Belinda,Fitzgerald,No,10,Afrikaans,93
+Belinda,Fitzgerald,No,10,Mathematics,48
+Belinda,Fitzgerald,No,10,Science,30
+Belinda,Fitzgerald,No,10,Computer Science,66
+Belinda,Fitzgerald,No,10,Economics,6
+Ed,Guerrero,No,11,English,3
+Ed,Guerrero,No,11,Afrikaans,19
+Ed,Guerrero,No,11,Mathematics,71
+Ed,Guerrero,No,11,Science,66
+Ed,Guerrero,No,11,Computer Science,70
+Ed,Guerrero,No,11,Economics,83
+Florence,Harvey,No,12,English,81
+Florence,Harvey,No,12,Afrikaans,19
+Florence,Harvey,No,12,Mathematics,58
+Florence,Harvey,No,12,Science,86
+Florence,Harvey,No,12,Computer Science,14
+Florence,Harvey,No,12,Economics,20
+Anita,James,No,8,English,88
+Anita,James,No,8,Afrikaans,65
+Anita,James,No,8,Mathematics,66
+Anita,James,No,8,Science,9
+Anita,James,No,8,Computer Science,43
+Anita,James,No,8,Economics,58
+Crystal,Pearson,No,9,English,6
+Crystal,Pearson,No,9,Afrikaans,87
+Crystal,Pearson,No,9,Mathematics,53
+Crystal,Pearson,No,9,Science,93
+Crystal,Pearson,No,9,Computer Science,55
+Crystal,Pearson,No,9,Economics,53
+Nelson,Dixon,No,10,English,98
+Nelson,Dixon,No,10,Afrikaans,76
+Nelson,Dixon,No,10,Mathematics,96
+Nelson,Dixon,No,10,Science,93
+Nelson,Dixon,No,10,Computer Science,10
+Nelson,Dixon,No,10,Economics,7
+Rafael,Mcbride,No,11,English,11
+Rafael,Mcbride,No,11,Afrikaans,11
+Rafael,Mcbride,No,11,Mathematics,71
+Rafael,Mcbride,No,11,Science,82
+Rafael,Mcbride,No,11,Computer Science,26
+Rafael,Mcbride,No,11,Economics,28
+Rodney,Richards,No,12,English,2
+Rodney,Richards,No,12,Afrikaans,66
+Rodney,Richards,No,12,Mathematics,35
+Rodney,Richards,No,12,Science,50
+Rodney,Richards,No,12,Computer Science,83
+Rodney,Richards,No,12,Economics,30
+Alvin,Floyd,No,8,English,11
+Alvin,Floyd,No,8,Afrikaans,30
+Alvin,Floyd,No,8,Mathematics,87
+Alvin,Floyd,No,8,Science,24
+Alvin,Floyd,No,8,Computer Science,40
+
+Alvin,Floyd,No,8,Economics,9
+Ruben,Hunt,No,9,English,26
+Ruben,Hunt,No,9,Afrikaans,29
+Ruben,Hunt,No,9,Mathematics,62
+Ruben,Hunt,No,9,Science,23
+Ruben,Hunt,No,9,Computer Science,79
+Ruben,Hunt,No,9,Economics,60
+
+Cesar,Brooks,Yes,10,English,50
+Cesar,Brooks,Yes,10,Afrikaans,87
+Cesar,Brooks,Yes,10,Mathematics,85
+Cesar,Brooks,Yes,10,Science,89
+Cesar,Brooks,Yes,10,Computer Science,89
+Cesar,Brooks,Yes,10,Economics,99
+Arnold,Hamilton,No,11,English,29
+Arnold,Hamilton,No,11,Afrikaans,69
+Arnold,Hamilton,No,11,Mathematics,17
+
+Arnold,Hamilton,No,11,Science,55
+Arnold,Hamilton,No,11,Computer Science,15
+Arnold,Hamilton,No,11,Economics,25
+Eduardo,Reese,No,12,English,60
+Eduardo,Reese,No,12,Afrikaans,56
+
+Eduardo,Reese,No,12,Mathematics,65
+Eduardo,Reese,No,12,Science,86
+Eduardo,Reese,No,12,Computer Science,27
+Eduardo,Reese,No,12,Economics,58

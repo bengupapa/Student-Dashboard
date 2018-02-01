@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="Styles/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="Styles/bootstrap.min.css" rel="stylesheet" />
+    <link href="Styles/App.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="row top-panel"></div>
+
+    <div class="container card main-panel">
+        <div class="table-container">
+            <table id="report_table">
+                <thead class="header">
+                    <tr>
+                        <th>Grade</th>
+                        <th>Best Subject</th>
+                        <th>Worst Subject</th>
+                        <th>Best Student</th>
+                        <th>Worst Student</th>
+                        <th>Avg Score</th>
+                    </tr>
+                </thead>
+                <tbody id="table_data_container"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="Scripts/App.js"></script>
+    <script src="Scripts/jquery-3.2.1.js"></script>
+    <script src="Scripts/jquery.dataTables.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script>
+        $(function () {
+            $("#report_table").DataTable({
+                "paging": false,
+                "ordering": false,
+                "info": false,
+                "searching": false
+            });
+            window.Facade.ReportController.LoadReport();
+        });
+    </script>
+</body>
+</html>
